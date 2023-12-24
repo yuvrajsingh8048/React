@@ -8,7 +8,7 @@ function Contact() {
           <div className="grid grid-cols-1 md:grid-cols-2">
             <div className="p-6 mr-2 bg-gray-100 sm:rounded-lg">
               <h1 className="text-3xl sm:text-4xl text-gray-800 font-extrabold tracking-tight">
-                Get in touch:
+                Get in touch: Yuvraj
               </h1>
               <p className="text-normal text-lg sm:text-xl font-medium text-gray-600 mt-2">
                 Fill in the form to start a conversation
@@ -38,7 +38,7 @@ function Contact() {
                   />
                 </svg>
                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                  Acme Inc, Street, State, Postal Code
+                  Ramnagar Lane, Garden Reach, Kolkata-700024
                 </div>
               </div>
 
@@ -60,7 +60,7 @@ function Contact() {
                   />
                 </svg>
                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                  +44 1234567890
+                  +91 6290668486
                 </div>
               </div>
 
@@ -82,7 +82,7 @@ function Contact() {
                   />
                 </svg>
                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                  info@acme.org
+                  yuvrajsingh001750@gmail.com
                 </div>
               </div>
             </div>
