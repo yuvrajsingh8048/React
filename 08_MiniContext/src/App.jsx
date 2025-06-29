@@ -7,7 +7,7 @@ import Login from "./components/Login";
 function App() {
   return (
     <UserContextProvider >
-      <h2>This is mini Context!!!</h2>
+      <h1 className="text-yellow-400 font-bold text-2xl">This is mini Context!!!</h1>
       <Login />
       <Profile />
     </UserContextProvider>

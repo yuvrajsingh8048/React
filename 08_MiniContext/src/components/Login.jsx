@@ -13,7 +13,7 @@ function Login() {
   };
   return (
     <div>
-      <h2>Login</h2>
+      <h1 className="text-lg mt-10 h-fit w-fit p-4 m-auto">Enter your login details</h1>
       <input
         type="text"
         value={username}
